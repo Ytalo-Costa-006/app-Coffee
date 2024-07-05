@@ -65,6 +65,8 @@ public class MainActivity extends AppCompatActivity {
                         TelaPrincipal();
                     }
                 },3000);
+            }else{
+                Toast.makeText(this, "Login falhou!", Toast.LENGTH_SHORT).show();
             }
         });
 

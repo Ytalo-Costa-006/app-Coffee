@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">coffee</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="entrar">entrar</string>
+    <string name="crie_uma_conta_clicando_aqui">crie uma conta clicando aqui</string>
+</resources>

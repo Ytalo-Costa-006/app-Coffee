@@ -59,7 +59,6 @@
             android:inputType="numberPassword"
             />
         <androidx.appcompat.widget.AppCompatButton
-            android:textColor="@color/White"
             android:id="@+id/buttonEntrar"
             style="@style/button"
             android:text="@string/entrar"
@@ -76,7 +75,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toBottomOf="@id/containerComponents"
             android:visibility="invisible"
-            android:indeterminateTint="@color/White"
+            android:indeterminateTint="@color/white"
             />
         <TextView
             android:id="@+id/text_tela_cadastro"
@@ -89,7 +88,7 @@
             android:layout_marginTop="20dp"
             android:layout_marginBottom="30dp"
             android:textSize="20sp"
-            android:textColor="@color/White"
+            android:textColor="@color/white"
             android:textStyle="bold"
             />
     </androidx.constraintlayout.widget.ConstraintLayout>

@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:text="Cadastre-se"
         android:textStyle="bold"
-        android:textColor="@color/White"
+        android:textColor="@color/white"
         android:textSize="50sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

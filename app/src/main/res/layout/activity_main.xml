@@ -59,6 +59,7 @@
             android:inputType="numberPassword"
             />
         <androidx.appcompat.widget.AppCompatButton
+            android:textColor="@color/White"
             android:id="@+id/buttonEntrar"
             style="@style/button"
             android:text="@string/entrar"
@@ -88,9 +89,8 @@
             android:layout_marginTop="20dp"
             android:layout_marginBottom="30dp"
             android:textSize="20sp"
-            android:textColor="@color/DarkGray"
+            android:textColor="@color/White"
             android:textStyle="bold"
-
             />
     </androidx.constraintlayout.widget.ConstraintLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

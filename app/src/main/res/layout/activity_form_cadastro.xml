@@ -11,7 +11,7 @@
         android:id="@+id/textCadastro"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Cadastre-se"
+        android:text="@string/cadastre_se"
         android:textStyle="bold"
         android:textColor="@color/white"
         android:textSize="50sp"
@@ -32,7 +32,7 @@
         app:layout_constraintTop_toTopOf="@id/containerComponents"
         app:layout_constraintStart_toStartOf="@id/containerComponents"
         app:layout_constraintEnd_toEndOf="@id/containerComponents"
-        android:hint="Nome"
+        android:hint="@string/nome"
         android:inputType="text"
         />
     <EditText

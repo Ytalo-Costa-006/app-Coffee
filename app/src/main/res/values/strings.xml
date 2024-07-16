@@ -5,4 +5,6 @@
     <string name="cadastrar">Cadastrar</string>
     <string name="entrar">Entrar</string>
     <string name="crie_uma_conta_clicando_aqui">Crie uma conta clicando aqui</string>
+    <string name="nome">Nome</string>
+    <string name="cadastre_se">Cadastre-se</string>
 </resources>

@@ -31,8 +31,9 @@ import java.util.Map;
 
 public class FormCadastro extends AppCompatActivity {
     private EditText EditTextNome, EditTextSenha, EditTextEmail;
+
     private Button buttonCadastrar;
-    String[] mensagens= {"Preencha todos os campos!", "Cadastro efetuado com sucesso" };
+    String[] mensagens= {"Preencha todos os campos!", "Cadastro efetuado com sucesso"};
     String usuarioID;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
